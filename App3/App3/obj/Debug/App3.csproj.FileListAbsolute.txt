@@ -1,0 +1,14 @@
+C:\Users\Asfend\Documents\MicrotechX\App3\App3\App3\bin\Debug\App3.dll
+C:\Users\Asfend\Documents\MicrotechX\App3\App3\App3\bin\Debug\App3.pdb
+C:\Users\Asfend\Documents\MicrotechX\App3\App3\App3\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Asfend\Documents\MicrotechX\App3\App3\App3\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Asfend\Documents\MicrotechX\App3\App3\App3\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Asfend\Documents\MicrotechX\App3\App3\App3\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Asfend\Documents\MicrotechX\App3\App3\App3\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Asfend\Documents\MicrotechX\App3\App3\App3\obj\Debug\App3.csprojResolveAssemblyReference.cache
+C:\Users\Asfend\Documents\MicrotechX\App3\App3\App3\obj\Debug\App3.MainPage.xaml.g.cs
+C:\Users\Asfend\Documents\MicrotechX\App3\App3\App3\obj\Debug\App3.App.xaml.g.cs
+C:\Users\Asfend\Documents\MicrotechX\App3\App3\App3\obj\Debug\App3.dll
+C:\Users\Asfend\Documents\MicrotechX\App3\App3\App3\obj\Debug\App3.pdb
+C:\Users\Asfend\Documents\MicrotechX\App3\App3\App3\obj\Debug\App3.dll.mdb
+C:\Users\Asfend\Documents\MicrotechX\App3\App3\App3\bin\Debug\App3.dll.mdb
